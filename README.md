@@ -2,8 +2,9 @@
 
 ## Скриншоты
 
+<img width="2146" height="1154" alt="image" src="https://github.com/user-attachments/assets/55891d26-cd2e-49c2-a2c4-524961e9f99c" />
 
-
+<img width="2143" height="1156" alt="image" src="https://github.com/user-attachments/assets/07857458-5bc6-4139-9afa-757c69884d42" />
 
 
 1. Какой подход показался удобнее и почему?
@@ -38,4 +39,5 @@ Tailwind:
 «Сгенерируй адаптивный лендинг продукта SuperGadget на Bootstrap 5 с navbar, hero, секцией о продукте, 3 карточками и футером.»
 «Сделай точную копию лендинга на Tailwind CSS с утилитарными классами.»
 «Добавь hover-эффект для карточек преимуществ на Bootstrap и Tailwind.»
+
 
