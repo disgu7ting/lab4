@@ -13,10 +13,10 @@ Bootstrap быстрее для стандартных решений, Tailwind 
 2. Приведите пример кода для одного и того же элемента (например,
 кнопки) на Bootstrap и на Tailwind из вашей работы. В чем ключевое различие в разметке?
 Bootstrap 5:
-<button class="btn btn-outline-primary mt-2">Узнать больше</button>
+//<button class="btn btn-outline-primary mt-2">Узнать больше</button>//
 
 Tailwind CSS:
-<a href="#" class="text-blue-600 border border-blue-600 hover:bg-blue-600 hover:text-white font-semibold py-2 px-4 rounded mt-2">Узнать больше</a>
+//<a href="#" class="text-blue-600 border border-blue-600 hover:bg-blue-600 hover:text-white font-semibold py-2 px-4 rounded mt-2">Узнать больше</a>//
 
 Ключевое различие:
 В Bootstrap мы используем готовый компонент btn с модификатором btn-outline-primary. Все стили задаются библиотекой.
@@ -39,5 +39,6 @@ Tailwind:
 «Сгенерируй адаптивный лендинг продукта SuperGadget на Bootstrap 5 с navbar, hero, секцией о продукте, 3 карточками и футером.»
 «Сделай точную копию лендинга на Tailwind CSS с утилитарными классами.»
 «Добавь hover-эффект для карточек преимуществ на Bootstrap и Tailwind.»
+
 
 
